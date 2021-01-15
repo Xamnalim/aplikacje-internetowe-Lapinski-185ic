@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+apkintenv
+db.sqlite3
+/static
+.DS_Store
